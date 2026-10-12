@@ -27,8 +27,8 @@ PAL = {
     "K": "#1E1A1D",  # outline
     "H": "#2B201C",  # hair
     "h": "#4A3A31",  # hair highlight
-    "S": "#C98C5F",  # skin
-    "s": "#A9704A",  # skin shadow
+    "S": "#DCA67E",  # skin
+    "s": "#C08A63",  # skin shadow
     "B": "#7A5843",  # stubble
     "E": "#1E1A1D",  # eye
     "W": "#F3EDE4",  # eye glint
@@ -67,11 +67,11 @@ AVATAR_LEFT = [
     "......KSSSSSSSSs",  # 15 nose
     "......KSSSSSSSss",  # 16
     "......KSSSMSSSSS",  # 17 smile corners
-    "......KSBSSMTTTT",  # 18 teeth
-    ".......KBBSSMMMM",  # 19
-    ".......KBBBBSSSS",  # 20
-    "........KBBBBBBB",  # 21 beard
-    ".........KKBBBBB",  # 22
+    "......KSSSSMTTTT",  # 18 teeth
+    ".......KSSSSMMMM",  # 19
+    ".......KSSSSSSSS",  # 20
+    "........KsSSSSSS",  # 21 jaw
+    ".........KKsSSSS",  # 22
     "..........KKKsSS",  # 23 neck
     "......KKKKKOOKsS",  # 24 hood
     "....KKJJJJKOOOKs",  # 25
@@ -88,8 +88,6 @@ OVERRIDES = {
     (1, 13): "H", (1, 14): "H", (1, 18): "H", (2, 23): "K", (2, 24): ".",
     (3, 20): "h", (4, 10): "h", (5, 22): "h", (6, 17): "h", (7, 12): "h",
     (8, 15): "S", (8, 16): "S", (8, 14): "S",  # hair swept up, forehead shows
-    # tilak
-    (10, 15): "R", (10, 16): "R", (11, 15): "R", (11, 16): "R",
     # glint on the same side of both eyes
     (13, 21): "E", (13, 22): "W",
 }

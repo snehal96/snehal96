@@ -1,0 +1,21 @@
+README.md
+  s_8157361d5071f3::t_6f085c1330a392 2
+assets/src/build.py
+  s_8157361d5071f3::t_d61840d3c548fb 500-502
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f4d2873581819a98b260cd866e74c2c76835e5d0",
+  "prompts": {},
+  "sessions": {
+    "s_8157361d5071f3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24ce061d-c5aa-424c-b3c6-87c94cde7752",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Snehal Maheshwari <snehal.maheshwari14@gmail.com>"
+    }
+  }
+}

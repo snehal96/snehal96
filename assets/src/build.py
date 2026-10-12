@@ -497,7 +497,9 @@ def build_footer() -> None:
 
 
 def main() -> None:
-    (OUT / "header.svg").write_text(build_header())
+    # The version is in the filename because GitHub caches README images by URL. Bump it
+    # (and the README reference) whenever the portrait changes, or visitors keep the old one.
+    (OUT / "header-v2.svg").write_text(build_header())
     build_section("building", "WHAT I'M BUILDING")
     build_section("lessons", "LEARNED THE HARD WAY")
     build_section("stack", "STACK")

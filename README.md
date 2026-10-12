@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Pixel-art portrait of Snehal Maheshwari next to the text: I build autonomous AI systems, and run one in production.">
+  <img src="assets/header-v2.svg" width="100%" alt="Pixel-art portrait of Snehal Maheshwari next to the text: I build autonomous AI systems, and run one in production.">
 </p>
 
 Right now that system is **[AllerNote](https://allernote.com)**, an allergen checker for people with contact allergies, which I build alone. Every morning an agent loop I built reads the product's signals, writes me a report, and ships small, verified code changes. I decide what gets built. The agents do most of the typing.
